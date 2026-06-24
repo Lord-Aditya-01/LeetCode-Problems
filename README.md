@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
