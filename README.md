@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [1833-maximum-ice-cream-bars](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
