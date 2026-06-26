@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0460-lfu-cache](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 ## Bucket Sort
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0460-lfu-cache](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0460-lfu-cache) |
 ## Data Stream
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0460-lfu-cache](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0460-lfu-cache) |
 ## Merge Sort
 |  |
 | ------- |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
