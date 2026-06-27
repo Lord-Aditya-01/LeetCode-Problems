@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0994-rotting-oranges](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1833-maximum-ice-cream-bars](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0460-lfu-cache) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
