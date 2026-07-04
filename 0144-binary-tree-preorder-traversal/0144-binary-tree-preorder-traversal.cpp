@@ -22,20 +22,40 @@
  */
 class Solution {
 public:
-    void preorder(TreeNode* r, vector<int>& ans) {
-        if(r == NULL) return;
-        ans.push_back(r->val);
-        if(r->left) {
-            preorder(r->left, ans);
-        }
-        if(r->right) {
-            preorder(r->right, ans);
-        }
-    }
     vector<int> preorderTraversal(TreeNode* root) {
-        TreeNode* temp = root;
+
         vector<int> ans;
-        preorder(temp, ans);
+        TreeNode* curr = root;
+
+        while (curr != NULL) {
+
+            // No left subtree
+            if (curr->left == NULL) {
+                ans.push_back(curr->val);
+                curr = curr->right;
+            }
+            else {
+
+                // Find inorder predecessor
+                TreeNode* pred = curr->left;
+
+                while (pred->right != NULL && pred->right != curr)
+                    pred = pred->right;
+
+                // Create thread
+                if (pred->right == NULL) {
+                    ans.push_back(curr->val);   // Visit before going left
+                    pred->right = curr;
+                    curr = curr->left;
+                }
+                // Thread already exists
+                else {
+                    pred->right = NULL;
+                    curr = curr->right;
+                }
+            }
+        }
+
         return ans;
     }
 };
