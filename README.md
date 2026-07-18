@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0165-compare-version-numbers) |
