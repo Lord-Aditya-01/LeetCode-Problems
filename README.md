@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lord-Aditya-01/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
